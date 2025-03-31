@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/MindMachineDev/MindMachineDev/tree/main/assets/greetings.jpg" align="center" style="width: 100%" />
+<img src="https://github.com/MindMachineDev/MindMachineDev/blob/main/assets/greetings.jpg" align="center" style="width: 100%" />
 </div>  
   
 
@@ -80,7 +80,7 @@
 <br/>  
 
 <div align="center">
-<img src="https://github.com/MindMachineDev/MindMachineDev/tree/main/assets/ending.gif" align="center" height="" width="" />
+<img src="https://github.com/MindMachineDev/MindMachineDev/blob/main/assets/ending.gif" align="center" height="" width="" />
 </div>  
   
 
