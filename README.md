@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/MindMachineDev/MindMachineDev/blob/main/assets/greetings.jpg" align="center" height="250" width="600" />
+<img src="https://github.com/MindMachineDev/MindMachineDev/blob/main/assets/greetings.jpg" align="center" height="250" width="750" />
 </div>  
   
 
