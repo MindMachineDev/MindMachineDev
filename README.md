@@ -4,7 +4,7 @@
   
 
 ### <div align="center">Алексей, a back-end Golang developer.💻</div>  
-  
+___
 
 Парочку слов о себе: 👺
 
